@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+tensorflow
+gdown
+os
+cv2
+itertools
